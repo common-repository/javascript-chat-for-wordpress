@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_jschat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-30 20:29+0100\n"
+"PO-Revision-Date: 2010-11-30 21:08+0100\n"
+"Last-Translator: Stéphane Le Merre <wordpress@ligams.com>\n"
+"Language-Team: Ligams <wp@ligams.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins\\wp_jschat\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:42
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:342
+msgid "Chat"
+msgstr "Chat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:273
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:301
+msgid "Paramètres mis à jour"
+msgstr "Settings updated"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:411
+msgid "Bienvenue sur le chat"
+msgstr "Welcome"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:412
+msgid "Système"
+msgstr "System"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/wp_jschat.php:422
+msgid "Voici le canal de discussion par défaut widget"
+msgstr "Here's the default channel called widget"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:2
+msgid "Canaux de discussion"
+msgstr "Channels"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:4
+msgid "Ajout d'un canal de discussion"
+msgstr "Add channel"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:8
+msgid "Nom du canal"
+msgstr "Channel name"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:13
+msgid "Ajouter"
+msgstr "Add"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:17
+msgid "Liste des cannaux de discussion"
+msgstr "Channels"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels.php:28
+msgid "Supprimer ce cannal de discussion ?"
+msgstr "Delete this channel ?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels_tab.php:3
+msgid "ID"
+msgstr "ID"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels_tab.php:4
+msgid "Nom"
+msgstr "Name"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels_tab.php:5
+msgid "Action"
+msgstr "Action"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_channels_tab.php:11
+msgid "Supprimer"
+msgstr "Delete"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:3
+msgid "Javascript Chat pour  Wordpress"
+msgstr "Javascript Chat for Wordpress"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:5
+msgid "Activer le chat"
+msgstr "Activate chat"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:9
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:8
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:19
+msgid "Oui"
+msgstr "Yes"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:13
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:12
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:23
+msgid "Non"
+msgstr "Non"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:16
+msgid "IP bannies (séparées par des virgules)"
+msgstr "IP banned (comma separated)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/admin_settings.php:21
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:27
+msgid "Mettre à jour"
+msgstr "Update"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:3
+msgid "Options du chat"
+msgstr "Chat settings"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:4
+msgid "Activer le chat ?"
+msgstr "Enable chat ?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:7
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:11
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:18
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:22
+msgid "checked=\"checked\""
+msgstr "checked=\"checked\""
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/options_settings.php:15
+msgid "Activer les smileys ?"
+msgstr "Enable smileys ?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/page.php:26
+#: C:\wamp\www\wordpress\wp-content\plugins\wp_jschat/php/widget.php:25
+msgid "Rafraîchir"
+msgstr "Refresh "
+
